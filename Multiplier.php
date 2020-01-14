@@ -4,5 +4,5 @@ echo ("Eerste getal?") . PHP_EOL;
 $a = readline("") ;
 echo ("Tweede getal?") . PHP_EOL;
 $b = readline("") ;
-echo ("Uw resultaat is: ") . $a * $b . PHP_EOL;
+echo ("Uw resultaat is: ") . $a * $b ;
 ?>
